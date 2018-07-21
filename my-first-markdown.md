@@ -8,6 +8,15 @@ Once you get the hand on *it*, you _**just**_:
 * write your doc
 * Done!
 
-her is code `std::cout << "Hello Markdown!" << std::endl;`
+here is code `std::cout << "Hello Markdown!" << std::endl;`
+
+and more code
+
+`std::cout << "Hello Markdown!" << std::endl;`
+
+
+here what people say about it:
+> It is incredible! Absolutely fantastic!
+> So easy and so powerful!
 
 for more docs visit [markdown docs](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
