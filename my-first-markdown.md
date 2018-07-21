@@ -1,6 +1,6 @@
 # Hello Markdown!
 
-It is **soo* nice to be able to write in this simple format.
+It is **soo** nice to be able to write in this simple format.
 
 Once you get the hand on *it*, you _**just**_:
 
