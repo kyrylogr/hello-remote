@@ -12,7 +12,11 @@ here is code `std::cout << "Hello Markdown!" << std::endl;`
 
 and more code
 
-`std::cout << "Hello Markdown!" << std::endl;`
+`int main ()
+{ 
+  std::cout << "Hello Markdown!" << std::endl;
+  return 0;
+}`
 
 
 here what people say about it:
